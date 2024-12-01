@@ -8,146 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bc01a0599a6aec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "7a560081131dc212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Django"
-            }
-          },
-          {
-            "id": "d9ac6124190e2f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/Manage.py runserver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manage.py runserver"
-            }
-          },
-          {
-            "id": "d21a272834c07695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap"
-            }
-          },
-          {
-            "id": "aff407be10c41842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/Django.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Django"
-            }
-          },
-          {
-            "id": "b6daef89ea84147f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Emmet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emmet"
-            }
-          },
-          {
-            "id": "76cee55c615d6a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/Manage.py runserver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manage.py runserver"
-            }
-          },
-          {
-            "id": "468422a38e4d5860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. File Structures and Apps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. File Structures and Apps"
-            }
-          },
-          {
-            "id": "0aa607fe76994635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Django Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Django Templates"
-            }
-          },
-          {
-            "id": "fb2c7ce27bf712b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Admin Panel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Admin Panel"
-            }
-          },
-          {
             "id": "385a34e2ff954025",
             "type": "leaf",
             "state": {
@@ -161,8 +21,7 @@
               "title": "4. Database Management & ORM"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,19 +176,19 @@
   "active": "385a34e2ff954025",
   "lastOpenFiles": [
     "3. Admin Panel.md",
-    "4. Database Management & ORM.md",
     "2. Django Templates.md",
     "1. File Structures and Apps.md",
     "Django/Manage.py runserver.md",
+    "HTML/Emmet.md",
+    "Django/Django.md",
+    "Resources/Roadmap.md",
+    "4. Database Management & ORM.md",
     "Inspect Page Details.md",
     "Pasted image 20241201200837.png",
     "Pasted image 20241201200541.png",
-    "HTML/Emmet.md",
     "Pasted image 20241201200324.png",
     "Pasted image 20241201200311.png",
     "HTML",
-    "Django/Django.md",
-    "Resources/Roadmap.md",
     "Untitled.md",
     "README.md",
     "Resources",
