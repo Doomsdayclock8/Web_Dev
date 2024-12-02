@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "385a34e2ff954025",
+            "id": "8bc01a0599a6aec2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. Database Management & ORM.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20241201200311.png"
               },
-              "icon": "lucide-file",
-              "title": "4. Database Management & ORM"
-            }
-          },
-          {
-            "id": "ae6818c3351ce325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. User Registration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. User Registration"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241201200311"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "4405aff46045378b",
@@ -175,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,27 +171,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae6818c3351ce325",
+  "active": "c0493cbe2ce42a22",
   "lastOpenFiles": [
-    "Pasted image 20241201214327.png",
-    "4. Database Management & ORM.md",
     "5. User Registration.md",
+    "Images",
+    "4. Database Management & ORM.md",
     "3. Admin Panel.md",
     "2. Django Templates.md",
-    "1. File Structures and Apps.md",
-    "Django/Manage.py runserver.md",
-    "HTML/Emmet.md",
-    "Django/Django.md",
-    "Resources/Roadmap.md",
-    "Inspect Page Details.md",
-    "Pasted image 20241201200837.png",
-    "Pasted image 20241201200541.png",
-    "Pasted image 20241201200324.png",
-    "Pasted image 20241201200311.png",
-    "HTML",
-    "Untitled.md",
     "README.md",
+    "Django.md",
+    "Untitled.md",
+    "Resources/Roadmap.md",
     "Resources",
-    "Django"
+    "Images/Pasted image 20241201214327.png",
+    "Images/Pasted image 20241201200837.png",
+    "Images/Pasted image 20241201200541.png",
+    "Images/Pasted image 20241201200324.png",
+    "Images/Pasted image 20241201200311.png",
+    "Inspect Page Details.md",
+    "HTML/Emmet.md",
+    "HTML",
+    "Django/Manage.py runserver.md",
+    "Django/Django.md",
+    "Django",
+    "1. File Structures and Apps.md"
   ]
 }
